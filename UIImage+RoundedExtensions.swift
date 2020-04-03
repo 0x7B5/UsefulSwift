@@ -1,5 +1,5 @@
 //
-//  UIImage+RoundedExtension.swift
+//  UIImage+RoundedExtensions.swift
 //  Created by Vlad Munteanu on 4/2/20.
 //
 
